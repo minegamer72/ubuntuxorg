@@ -3,7 +3,7 @@
 # install first drivers
 apt install xorg
 
-# for just building other programs like st
+# for building C program
 apt install build-essential
 
 # install other dependencies related to xorg
